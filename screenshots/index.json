@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "flagship",
+    "captured_at": "2026-10-11T185726",
+    "source_url": "https://landing.flagship.shop/",
+    "source_type": "Website",
+    "file": "flagship-2026-10-11T185726.png",
+    "bytes": 89118,
+    "capture": "playwright-local"
+  }
+]
